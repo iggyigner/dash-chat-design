@@ -6,6 +6,15 @@
     "_class": "exportOptions",
     "do_objectID": "01FAA4C3-D0C2-4C8E-ADC5-1F9C21AD8F0D",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -27,7 +36,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -38,7 +47,7 @@
       "id": "711FFDDD-B4CD-4E18-A55B-BC6374EE09BF"
     }
   ],
-  "name": "profile_pic_1",
+  "name": "profile_pic_travis-ns",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -65,7 +74,7 @@
           "blendMode": 0,
           "opacity": 1
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "offsetX": 0,
         "offsetY": 2,
         "spread": 0

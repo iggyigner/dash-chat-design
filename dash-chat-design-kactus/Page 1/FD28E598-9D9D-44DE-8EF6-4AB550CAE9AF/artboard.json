@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -189,12 +189,8 @@
       "id": "3781AA71-A74C-4E35-A692-0E709617FA4D"
     },
     {
-      "class": "shapeGroup",
-      "id": "770AEFE4-2050-4855-A70F-9E35EBF359EE"
-    },
-    {
       "class": "group",
-      "id": "71117917-1D86-40AD-858D-9FFE619E2357"
+      "id": "A49950B5-2620-4B76-9B07-AADA818052ED"
     }
   ],
   "name": "Desktop",

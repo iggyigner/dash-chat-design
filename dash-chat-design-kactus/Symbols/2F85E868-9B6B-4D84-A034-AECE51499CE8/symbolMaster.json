@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 6,
+  "changeIdentifier": 16,
   "do_objectID": "2F85E868-9B6B-4D84-A034-AECE51499CE8",
   "exportOptions": {
     "_class": "exportOptions",
@@ -28,7 +28,7 @@
     "y": 125
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,

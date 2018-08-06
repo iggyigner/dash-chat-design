@@ -1,0 +1,100 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "EF047CC5-0E0C-4873-8E28-22F03C6AEE73",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E22C2D0C-FBD1-49AD-B1D3-D8C76D7C456B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "AF5D7F83-2F3C-4BE4-BF03-E14E968042A3",
+    "height": 25,
+    "width": 17,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7DA2756F-2D58-4481-9680-E99288EDF063"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D7C13964-3F72-4A7B-8997-A1B99ACE5328"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7744CA01-9524-42B1-835C-B4A65BB1EA1F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1F2CFEBF-DF1A-42ED-BF34-1E5860BE7D10"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ABC4133F-C7DD-46A8-8BDF-79BD9C75DFC2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2DADAC62-B6CC-452E-A558-2AE59561434F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "15D3A9AA-3230-46C8-80AB-F20C047E6BB9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "504FE046-0C8D-4D66-97EC-46387E2C93B3"
+    }
+  ],
+  "name": "icon_tea_active",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "544938AE-0A1A-41F2-946D-45138A972EB5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 25,
+            "enabled": 1,
+            "modelID": "constraint_3d80f639-6caa-45a9-b64e-916bf8b6104c",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 17
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_b6bbe899-3dde-44d8-a6f0-4520bdfa6a05",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}
