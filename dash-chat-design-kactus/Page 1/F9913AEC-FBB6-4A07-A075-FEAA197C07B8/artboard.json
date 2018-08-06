@@ -1,0 +1,123 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "515164C4-5F1B-4743-8357-08CF4222CD92",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "F9913AEC-FBB6-4A07-A075-FEAA197C07B8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E6477723-9C01-4C4E-A188-9BB6E48F3D27",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B6F445EA-4324-49EA-A970-4E72DAF307C4",
+    "height": 1024,
+    "width": 1440,
+    "x": -88,
+    "y": -1276
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "64436B37-5638-4587-81B8-DE4FC05A649B",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "48987F14-C76A-459B-BE01-FEF40B381642"
+    },
+    {
+      "class": "text",
+      "id": "9CA2A4D4-FFDF-4726-A611-4DC174F05E84"
+    },
+    {
+      "class": "text",
+      "id": "853A1696-6EC8-4D73-BC95-D7C9A36E899A"
+    },
+    {
+      "class": "group",
+      "id": "07D1B8A0-2E9B-45A1-8FA5-3A98E452D6AE"
+    },
+    {
+      "class": "group",
+      "id": "0392B53A-04FE-47A5-9211-C1173F2FEE37"
+    },
+    {
+      "class": "group",
+      "id": "AF90660A-9FA8-457C-8D41-D4C2BE903C7E"
+    },
+    {
+      "class": "group",
+      "id": "B4821617-E561-4BC4-BC77-A53203301CFF"
+    },
+    {
+      "class": "text",
+      "id": "8F0CA4ED-6C99-4581-B25D-862F8B3A715D"
+    },
+    {
+      "class": "group",
+      "id": "89A94136-3AC4-45D7-9797-6B296836DCB5"
+    }
+  ],
+  "name": "Desktop HD - Login",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AE975EEB-FFFE-41B1-BB5B-E5E548F8ECD7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1086089C-3FB0-4E1A-9E73-F98C44A30144",
+    "guides": [
+    ]
+  }
+}

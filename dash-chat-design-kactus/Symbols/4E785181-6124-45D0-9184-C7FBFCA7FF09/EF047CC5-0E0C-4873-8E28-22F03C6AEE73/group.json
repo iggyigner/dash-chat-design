@@ -6,6 +6,15 @@
     "_class": "exportOptions",
     "do_objectID": "E22C2D0C-FBD1-49AD-B1D3-D8C76D7C456B",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],

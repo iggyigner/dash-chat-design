@@ -4,26 +4,15 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "9EF007D2-918D-474D-A849-54DC089EE956",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 316,
-  "do_objectID": "4E785181-6124-45D0-9184-C7FBFCA7FF09",
+  "changeIdentifier": 9,
+  "do_objectID": "04DB58A7-E955-4CE8-95B1-ADCA76111FA3",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "527739BD-A3DA-4F37-A931-CF333CF36250",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "svg",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -33,18 +22,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "0A0E0DF8-C07E-4DF8-BF70-B28AB4D5490B",
-    "height": 25,
-    "width": 17,
-    "x": 2102,
-    "y": 595
+    "height": 138,
+    "width": 123,
+    "x": 875,
+    "y": 238
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "24469FE4-56D0-4FBB-9F62-4105824E6F84",
     "guides": [
     ]
   },
@@ -61,10 +48,10 @@
   "layers": [
     {
       "class": "group",
-      "id": "EF047CC5-0E0C-4873-8E28-22F03C6AEE73"
+      "id": "472E356A-24B6-4EC5-87B8-2718C8688443"
     }
   ],
-  "name": "icon_tea",
+  "name": "Profile_info",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -73,13 +60,12 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "43D00DD4-96A3-40E1-8065-2B150DA63E74",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "AF28E900-A33C-40C9-A686-0B5D068481C0",
+  "symbolID": "CFE2EB1A-1B77-4AC3-B342-87DC3948FC7F",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
@@ -92,7 +78,6 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "96F6061E-0B44-412E-A6A0-C23FC7288389",
     "guides": [
     ]
   }
