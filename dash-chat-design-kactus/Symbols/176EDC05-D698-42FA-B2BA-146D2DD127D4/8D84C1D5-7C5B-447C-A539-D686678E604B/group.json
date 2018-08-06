@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "8D84C1D5-7C5B-447C-A539-D686678E604B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 21,
+    "width": 17,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6481B74B-507B-47ED-B0B4-29DD973E2F71"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "10F8B012-9E49-4F4E-BC3F-55BC2990EAC5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "149A4605-D0EE-4DEE-AD2D-BF436249FA7F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "64FF2F10-601F-4C76-BC9A-3CC04FCE262E"
+    }
+  ],
+  "name": "icon_music",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

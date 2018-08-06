@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "7A09C416-97A8-43DA-8C84-3E5D6C446029",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 847,
+    "width": 1080,
+    "x": 360,
+    "y": 68
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F4DE9415-D3A5-4278-9A79-EFD34BFDF6DF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4FE093FC-F9BB-4C5F-8C45-3ECF3F9243F8"
+    },
+    {
+      "class": "text",
+      "id": "BBE24483-9396-4CEB-A31E-5B076F9B9283"
+    },
+    {
+      "class": "text",
+      "id": "601F08FD-1F62-4AA6-A53B-70F0F2753035"
+    },
+    {
+      "class": "group",
+      "id": "C44BCCFA-1AB4-4D64-8B09-0ABC7AF78401"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2202F546-77AD-4985-BF8F-0BFC1A49719C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "09A64C75-0849-4862-B612-38DFF4A6EAC4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CF5B5713-2C4F-49FC-84C4-3E5F3D6A6E5C"
+    }
+  ],
+  "name": "Chatroom",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

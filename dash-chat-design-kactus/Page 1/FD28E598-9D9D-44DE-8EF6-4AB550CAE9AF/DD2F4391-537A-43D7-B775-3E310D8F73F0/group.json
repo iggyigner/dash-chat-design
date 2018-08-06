@@ -1,0 +1,80 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "DD2F4391-537A-43D7-B775-3E310D8F73F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7BA61429-1A31-4B4E-8A23-DD8AB8E85CF3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "38601259-F4BA-42CC-8344-D44E8FD599B6",
+    "height": 10,
+    "width": 17,
+    "x": 55,
+    "y": 595
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "ED775548-C622-4319-BEAB-6598A464C616"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3BA20A8A-FF76-4460-A8BC-8730517B6139"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2B15F999-FB7A-4B0E-8F57-FB4A0589093D"
+    }
+  ],
+  "name": "icon_shoe",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EA2FE26D-3158-4B12-B50E-27F87CC9B7BF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 9.978261,
+            "enabled": 1,
+            "modelID": "constraint_76e2b8fa-dfdd-45bd-b4ff-0adf028f370f",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 17
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_188b0eff-686a-4c21-aef0-c9cbe8e88eda",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

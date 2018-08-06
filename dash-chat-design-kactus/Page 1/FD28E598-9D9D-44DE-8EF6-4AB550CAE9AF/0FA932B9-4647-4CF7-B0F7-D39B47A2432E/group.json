@@ -1,0 +1,100 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "0FA932B9-4647-4CF7-B0F7-D39B47A2432E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "788E8419-479E-4D28-B4DF-4E6C43DB5B71",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "2BBF0114-C2E0-4472-B3D8-4668313D23D4",
+    "height": 25,
+    "width": 17,
+    "x": 55,
+    "y": 399
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A5B2CC86-2425-4D58-B4C7-D82EAB43221E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4D97E2BF-4375-4386-8618-C08DEB9FAE77"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EE2DD67E-8801-4603-9917-EA3B4223A4A2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5904AA86-BEC5-4DA7-A3ED-23154694ED59"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "99E5A680-30E2-4509-8AA6-853CCDC67FA7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "85FECB23-693B-4FD7-B38A-CA7A0D8D8F87"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E39CDD8B-2E77-4840-B4E4-C5E3BA0E2D51"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "312C38FB-028B-4761-A50F-4A50545B9831"
+    }
+  ],
+  "name": "icon_tea",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FB8329CD-A7FA-4039-955C-7D133D124AD1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 24.58014,
+            "enabled": 1,
+            "modelID": "constraint_0c09f52a-b9e5-4dfa-80d7-da32375bc8d5",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 17
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_3a5d0fcf-7f5a-4090-afff-b9719f4b7011",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}
